@@ -1,3 +1,3 @@
 ﻿var x=10;//FromGitHubbbbbbbbbbbb
-x++;
-x;//AddStudio
+x++;//xxxxxx
+x;//Add Git
